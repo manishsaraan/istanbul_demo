@@ -11,7 +11,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "coverage": "istanbul cover ./test.js"
+    "coverage": "istanbul cover ./mischief.js"
   },
   "repository": {
     "type": "git",
