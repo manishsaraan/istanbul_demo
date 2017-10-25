@@ -1,0 +1,26 @@
+{
+  "name": "istanbul_demo",
+  "version": "1.0.0",
+  "description": "Istanbul Code Coverage Demo",
+  "main": "test.js",
+  "dependencies": {
+    "istanbul": "^0.4.5"
+  },
+  "devDependencies": {
+    "istanbul": "^0.4.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "coverage": "istanbul cover ./test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manishsaraan/istanbul_demo.git"
+  },
+  "author": "manishsaraan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manishsaraan/istanbul_demo/issues"
+  },
+  "homepage": "https://github.com/manishsaraan/istanbul_demo#readme"
+}
